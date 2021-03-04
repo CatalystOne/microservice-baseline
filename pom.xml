@@ -43,7 +43,7 @@
         <jetty.version>9.4.26.v20200117</jetty.version>
         <spring.version>5.2.3.RELEASE</spring.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <hystrix.version>1.5.12</hystrix.version>
+        <hystrix.version>1.5.18</hystrix.version>
         <maven.javadoc.skip>true</maven.javadoc.skip>
     </properties>
 
